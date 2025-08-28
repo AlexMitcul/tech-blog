@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Alex Tech Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Alex Tech Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 19 Aug 2025 13:32:41 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Map Reduce 1</title>
+      <link>http://localhost:1313/posts/map-reduce-1/</link>
+      <pubDate>Tue, 19 Aug 2025 13:32:41 +0100</pubDate>
+      <guid>http://localhost:1313/posts/map-reduce-1/</guid>
+      <description>&lt;h1 id=&#34;introduction-to-mapreduce&#34;&gt;Introduction to MapReduce&lt;/h1&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Map Reduce 1</title>
+      <link>http://localhost:1313/posts/map-reduce-1.ru/</link>
+      <pubDate>Tue, 19 Aug 2025 13:32:41 +0100</pubDate>
+      <guid>http://localhost:1313/posts/map-reduce-1.ru/</guid>
+      <description>&lt;h1 id=&#34;что-такое-mapreduce&#34;&gt;Что такое MapReduce&lt;/h1&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

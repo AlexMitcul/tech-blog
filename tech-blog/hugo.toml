@@ -1,0 +1,38 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Alex Tech Blog'
+theme = 'archie'
+
+
+defaultContentLanguage = 'en'
+[languages]
+	[languages.en]
+		languageName = 'English'
+		weight = 1
+		contentDir = 'content/en'
+
+		[languages.en.menu]
+			[[languages.en.menu.main]]
+				name = "Home"
+				url = "/en/"
+				weight = 1
+			[[languages.en.menu.main]]
+				name = "About Me"
+				url = "/en/about/"
+				weight = 2
+
+
+	[languages.ru]
+		languageName = 'Русский'
+		weight = 2
+		contentDir = 'content/ru'
+
+		[languages.ru.menu]
+			[[languages.ru.menu.main]]
+				name = "Главная"
+				url = "/ru/"
+				weight = 1
+			[[languages.ru.menu.main]]
+				name = "Обо мне"
+				url = "/ru/about/"
+				weight = 2
