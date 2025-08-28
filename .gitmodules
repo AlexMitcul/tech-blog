@@ -1,2 +1,3 @@
 [submodule "tech-blog/themes/archie"]
 	path = tech-blog/themes/archie
+	url = https://github.com/athul/archie
